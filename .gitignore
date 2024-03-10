@@ -1,0 +1,5 @@
+/BACKEND/__pycache__
+/backend/database/*
+/backend/venv
+/backend/yolov8s.pt
+yolov8s.pt
